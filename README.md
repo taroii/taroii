@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taroii
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Data Theory at UCLA!
-- :star: Check out my [website![(https://taroiyadomi.netlify.app)
+- :star: Check out my [website!](https://taroiyadomi.netlify.app)
 - 📫 You can reach me through my [LinkedIn!](https://www.linkedin.com/in/taroiyadomi/)
 
 <!---
